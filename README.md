@@ -1,5 +1,9 @@
 # Como usar?
+
 Descarga pocketbase de aca https://pocketbase.io/docs/
-y donde se descarga. pone las carpetas de este proyecto
+y poner el archivo pocketbase.exe en la carpeta de este proyecto
+
 Luego escribi ./pocketbase serve
 Y tenes el backend andando en tu compu
+
+Aunque con clickear pb.bat anda el backend
