@@ -8,17 +8,6 @@ Y tenes el backend andando en tu compu
 
 Aunque con clickear pb.bat anda el backend
 
-# Para autenticarse
-endpoint 
-POST http://localhost:8090/api/collections/users/auth-with-password
-body
-{
-  "identity":"admin",
-  "password":"admin"
-}
-{
- "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
-}
 
 # Luego para usar los demas endpoints
 poner en la cabecera
